@@ -4,14 +4,16 @@ This repository shows Python code that was produced during an intensive 1 week p
  
  ### What files are in this repository? 
  1. Model.py - Main file of code. 
- 1. AF.py - Giving agents a key defined set of rules to determine their behaviour. 
+ 1. Agent Framework.py - Giving agents a key defined set of rules to determine their behaviour. 
+ 1. LICENSE - The licensing laws of this repository. 
  1. in.txt - The environment agents will interact with.
 
 ### How to run the code 
 1. The code was produced in Spyder as part of the Anaconda navigator terminal. 
-1. The Agent Framework.py and Model.py file from the repository can be copied onto Spyder.
-1. These models are customizable and you can change of agents, the iterations and the number of neighbourhoods to your own desire.
+1. The AF.py and Model.py file from the repository can be copied onto Spyder.
+1. This model is customizable- you can change the number of agents, the iterations and the number of neighbourhoods to your own desire.
 1. Please note "tkinter" will be needed under the Graphics Backend on the python console. Save your two files and reset Spyder. 
 1. Type "%matplot qt" into the console to allow for annimations and run the Framework and Model. 
-1. Click "Model" and then "Run Model". 
+1. Click "Model" and then "Run the ABM Model". 
 1. The ABM will be produced.
+1. (Please note "Remove all variabls" under "Console" may have to be used an then ran again) 
