@@ -4,7 +4,7 @@ This repository shows Python code that was produced during an intensive 1 week p
  
  ### What files are in this repository? 
  1. Model.py - Main file of code. 
- 1. Agent Framework.py - Giving agents a key defined set of rules to determine their behaviour. 
+ 1. AF.py - Giving agents a key defined set of rules to determine their behaviour. 
  1. LICENSE - The licensing laws of this repository. 
  1. in.txt - The environment agents will interact with.
 
