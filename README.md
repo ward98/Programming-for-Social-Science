@@ -17,4 +17,4 @@ This repository shows Python code that was produced during an intensive 1 week p
 1. Type "%matplot qt" into the console to allow for annimations and run the Framework and Model. 
 1. Click "Model" and then "Run the ABM Model". 
 1. The ABM will be produced.
-1. (Please note "Remove all variables" under "Console" may have to be used an then ran again) 
+1. (Please note "Remove all variables" under "Console" may have to be used. Then run the AF.py followed by the Model.py) 
